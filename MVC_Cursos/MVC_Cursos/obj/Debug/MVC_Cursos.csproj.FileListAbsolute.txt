@@ -1,0 +1,8 @@
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\bin\Debug\MVC_Cursos.exe.config
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\bin\Debug\MVC_Cursos.exe
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\bin\Debug\MVC_Cursos.pdb
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\obj\Debug\MVC_Cursos.csproj.AssemblyReference.cache
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\obj\Debug\MVC_Cursos.csproj.SuggestedBindingRedirects.cache
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\obj\Debug\MVC_Cursos.csproj.CoreCompileInputs.cache
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\obj\Debug\MVC_Cursos.exe
+C:\Projetos C++\MVC_Cursos\MVC_Cursos\obj\Debug\MVC_Cursos.pdb
